@@ -1,0 +1,12 @@
+Unix
+Bash
+Git
+Unix
+Bash
+Git
+Unix
+Bash
+Git
+Pyton
+Ruby
+Java
